@@ -4,12 +4,12 @@ let edad = 19;
 console.log(`Hola, mi nombre es ${nombre} y tengo ${edad} años.`);
 
 console.log(`****************pregunta 2***********`);
-let base = 5, altura = 3;
+let base = 7, altura = 8;
 let area = base * altura;
 console.log(`El área del rectángulo es: ${area}`);
 
 console.log(`****************pregunta 3***********`);
-let numero = 4;
+let numero = 8;
 if (numero % 2 === 0) {
     console.log(`${numero} es par`);
 } else {
@@ -25,7 +25,7 @@ console.log(`****************pregunta 5***********`);
 function sumar(a, b) {
     return a + b;
 }
-console.log(sumar(3, 7));
+console.log(sumar(7, 9));
 
 console.log(`****************pregunta 6***********`);
 let frutas = ["manzana", "banana", "pera"];
@@ -68,8 +68,8 @@ Pregunta 2:
 
 Pregunta 3:
  Respuesta:
-git add index.js   # Añadir el archivo al área de preparación  
-git commit -m "Mensaje descriptivo del cambio"   # Confirmar los cambios
+git add index.js   # para añadir el archivo al área de preparación  
+git commit -m "Mensaje para describir el cambio"   
 
 
 Pregunta 4:
