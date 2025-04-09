@@ -56,28 +56,28 @@ console.log(filtrarPares([1, 2, 3, 4]));
 
 
 /*
-Pregunta 1:
+----------Pregunta 1:-------------
 Respuesta :
     git init
 
 
-Pregunta 2:
+----------Pregunta 2:------------
  Respuesta:
         git clone https://github.com/user/repo.git
 
 
-Pregunta 3:
+---------Pregunta 3:------------
  Respuesta:
 git add index.js   # para añadir el archivo al área de preparación  
 git commit -m "Mensaje para describir el cambio"   
 
 
-Pregunta 4:
+--------Pregunta 4:-------------
 Respuesta :
     git init  
 git checkout - b feature - login
 
 
-Pregunta 5:
- Respuesta :
-    git push origin main*/
+--------Pregunta 5:-----------
+ Respuesta :git push origin main
+    */
